@@ -1,0 +1,22 @@
+1.	Clear property margin check nhi krta hai 
+2.    Float property checks margin 
+3. 	*{
+	Iske andr aisi property likhte hn jo sbme dalni hai like poore content me
+	Jaise for border we give black color to saare border ne black ho jaega
+  	}	
+4. 	clear property enables you to return to the original content 
+5.	transform property ¬¬
+6.	z-index
+7. 	style = “verticle align : middle”>
+		PHLA PROJECT : PERSONAL PORTFOLIO
+8.	no-repeat is to not repeat
+9.	Scrolling nhi krna hai toh background-attachement k sath krna hoga 
+10.	z-index property is used to manually specify the value of order of layers 
+11. float aur clear use krke Instagram ka login page krna haii log in with facebook  text aur logo ye bhi clear and float property se bnana hai !!
+12. positioning topic
+13. using keyframes content colour you may change the color of background ese 
+	Keyframes content-color
+		0%{
+		Background-color : color;
+} and 25% 75% and 100% accoringky
+}
